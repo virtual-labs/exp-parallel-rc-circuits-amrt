@@ -2,37 +2,37 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The process of selecting the desired frequency from a composite wave is called.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Filtering",
+        "b": "Demodulation",
+        "c": "Rectification",
+        "d": "Tuning"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Filtering removes unwanted components from a signal.",
+        "b": "Demodulation extracts the original information signal.",
+        "c": "Rectification converts AC to DC.",
+        "d": "Tuning is the correct answer; it selects the desired frequency."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Tuning circuit use the principle of......",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Modulation",
+        "b": "Maximum energy transfer",
+        "c": "Mutual inductance",
+        "d": "Resonance"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Modulation refers to altering the signal.",
+        "b": "Maximum energy transfer is a general principle.",
+        "c": "Mutual inductance relates to coupled coils.",
+        "d": "Resonance is the correct principle used in tuning circuits."
       },
-      "correctAnswer": "c",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
