@@ -34,6 +34,57 @@
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
+    },
+    {
+      "question": "Without tuning circuit no ........................ would be possible",
+      "answers": {
+        "a": "Communication",
+        "b": "Oscillation",
+        "c": "Amplification",
+        "d": "Filtering"
+      },
+      "explanations": {
+        "a": "Correct; tuning is essential in selecting signals for communication.",
+        "b": "Oscillation does not require tuning circuit necessarily.",
+        "c": "Amplification is a separate process.",
+        "d": "Filtering is related but not the main role."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which one of the following RC filter is not widely used?",
+      "answers": {
+        "a": "Band pass filter",
+        "b": "All pass filter",
+        "c": "low pass filter",
+        "d": "High pass filter"
+      },
+      "explanations": {
+        "a": "Band pass filters are common.",
+        "b": "All pass filters are not as widely used.",
+        "c": "Low pass filters are widely used.",
+        "d": "High pass filters are widely used."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which one of the following is not a passive component in electric circuit?",
+      "answers": {
+        "a": "Resistors",
+        "b": "Transistor",
+        "c": "Inductor",
+        "d": "Capacitor"
+      },
+      "explanations": {
+        "a": "Resistors are passive components.",
+        "b": "Correct; transistor is an active component.",
+        "c": "Inductors are passive.",
+        "d": "Capacitors are passive."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
     }
   ]
 }
