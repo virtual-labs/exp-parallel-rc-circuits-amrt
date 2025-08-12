@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The process of selecting the desired frequency from a composite wave is called.",
+      "answers": {
+        "a": "Filtering",
+        "b": "Demodulation",
+        "c": "Rectification",
+        "d": "Tuning"
+      },
+      "explanations": {
+        "a": "Filtering removes unwanted components from a signal.",
+        "b": "Demodulation extracts the original information signal.",
+        "c": "Rectification converts AC to DC.",
+        "d": "Tuning is the correct answer; it selects the desired frequency."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Tuning circuit use the principle of......",
+      "answers": {
+        "a": "Modulation",
+        "b": "Maximum energy transfer",
+        "c": "Mutual inductance",
+        "d": "Resonance"
+      },
+      "explanations": {
+        "a": "Modulation refers to altering the signal.",
+        "b": "Maximum energy transfer is a general principle.",
+        "c": "Mutual inductance relates to coupled coils.",
+        "d": "Resonance is the correct principle used in tuning circuits."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Without tuning circuit no ........................ would be possible",
+      "answers": {
+        "a": "Communication",
+        "b": "Oscillation",
+        "c": "Amplification",
+        "d": "Filtering"
+      },
+      "explanations": {
+        "a": "Correct; tuning is essential in selecting signals for communication.",
+        "b": "Oscillation does not require tuning circuit necessarily.",
+        "c": "Amplification is a separate process.",
+        "d": "Filtering is related but not the main role."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which one of the following RC filter is not widely used?",
+      "answers": {
+        "a": "Band pass filter",
+        "b": "All pass filter",
+        "c": "low pass filter",
+        "d": "High pass filter"
+      },
+      "explanations": {
+        "a": "Band pass filters are common.",
+        "b": "All pass filters are not as widely used.",
+        "c": "Low pass filters are widely used.",
+        "d": "High pass filters are widely used."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which one of the following is not a passive component in electric circuit?",
+      "answers": {
+        "a": "Resistors",
+        "b": "Transistor",
+        "c": "Inductor",
+        "d": "Capacitor"
+      },
+      "explanations": {
+        "a": "Resistors are passive components.",
+        "b": "Correct; transistor is an active component.",
+        "c": "Inductors are passive.",
+        "d": "Capacitors are passive."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
